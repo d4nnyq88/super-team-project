@@ -204,6 +204,9 @@ csx/
 ecf/
 rcf/
 
+#Apple Computers
+.DS_Store
+
 # Windows Store app package directories and files
 AppPackages/
 BundleArtifacts/
